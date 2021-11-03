@@ -1,0 +1,252 @@
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.csproj.AssemblyReference.cache
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.AssemblyInfoInputs.cache
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.AssemblyInfo.cs
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.csproj.CoreCompileInputs.cache
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.MvcApplicationPartsAssemblyInfo.cs
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.MvcApplicationPartsAssemblyInfo.cache
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\appsettings.Development.json
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\appsettings.json
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.exe
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.deps.json
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.runtimeconfig.json
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.runtimeconfig.dev.json
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\ref\004_LukasHansel_FinalProject.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.pdb
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Google.Protobuf.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Humanizer.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\MySql.Data.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\staticwebassets\004_LukasHansel_FinalProject.StaticWebAssets.Manifest.cache
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\staticwebassets\004_LukasHansel_FinalProject.StaticWebAssets.xml
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\scopedcss\bundle\004_LukasHansel_FinalProject.styles.css
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.RazorTargetAssemblyInfo.cache
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\ref\004_LukasHansel_FinalProject.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.pdb
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.genruntimeconfig.cache
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Zstandard.Net.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.StaticWebAssets.xml
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\OCBC\004_LukasHansel_FinalProject\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\appsettings.Development.json
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\appsettings.json
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.StaticWebAssets.xml
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.exe
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.deps.json
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.runtimeconfig.json
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.runtimeconfig.dev.json
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\ref\004_LukasHansel_FinalProject.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.pdb
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Google.Protobuf.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Humanizer.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\MySql.Data.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Zstandard.Net.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.csproj.AssemblyReference.cache
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.AssemblyInfoInputs.cache
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.AssemblyInfo.cs
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.csproj.CoreCompileInputs.cache
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.MvcApplicationPartsAssemblyInfo.cs
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.MvcApplicationPartsAssemblyInfo.cache
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\staticwebassets\004_LukasHansel_FinalProject.StaticWebAssets.Manifest.cache
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\staticwebassets\004_LukasHansel_FinalProject.StaticWebAssets.xml
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\scopedcss\bundle\004_LukasHansel_FinalProject.styles.css
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.RazorTargetAssemblyInfo.cache
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\ref\004_LukasHansel_FinalProject.dll
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.pdb
+D:\OCBC\004_LukasHansel_FinalProject\Local MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.genruntimeconfig.cache
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\appsettings.Development.json
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\appsettings.json
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.StaticWebAssets.xml
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.exe
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.deps.json
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.runtimeconfig.json
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.runtimeconfig.dev.json
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\ref\004_LukasHansel_FinalProject.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.pdb
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Google.Protobuf.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Humanizer.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\MySql.Data.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Zstandard.Net.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.csproj.AssemblyReference.cache
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.AssemblyInfoInputs.cache
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.AssemblyInfo.cs
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.csproj.CoreCompileInputs.cache
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.MvcApplicationPartsAssemblyInfo.cs
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.MvcApplicationPartsAssemblyInfo.cache
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\staticwebassets\004_LukasHansel_FinalProject.StaticWebAssets.Manifest.cache
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\staticwebassets\004_LukasHansel_FinalProject.StaticWebAssets.xml
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\scopedcss\bundle\004_LukasHansel_FinalProject.styles.css
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.RazorTargetAssemblyInfo.cache
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\ref\004_LukasHansel_FinalProject.dll
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.pdb
+D:\OCBC\004_LukasHansel_FinalProject\Remote MySQL\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.genruntimeconfig.cache
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\appsettings.Development.json
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\appsettings.json
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.StaticWebAssets.xml
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.exe
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.deps.json
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.runtimeconfig.json
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.runtimeconfig.dev.json
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\ref\004_LukasHansel_FinalProject.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\004_LukasHansel_FinalProject.pdb
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Google.Protobuf.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Humanizer.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\MySql.Data.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Zstandard.Net.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.csproj.AssemblyReference.cache
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.AssemblyInfoInputs.cache
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.AssemblyInfo.cs
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.csproj.CoreCompileInputs.cache
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.MvcApplicationPartsAssemblyInfo.cs
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.MvcApplicationPartsAssemblyInfo.cache
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\staticwebassets\004_LukasHansel_FinalProject.StaticWebAssets.Manifest.cache
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\staticwebassets\004_LukasHansel_FinalProject.StaticWebAssets.xml
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\scopedcss\bundle\004_LukasHansel_FinalProject.styles.css
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.RazorTargetAssemblyInfo.cache
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\ref\004_LukasHansel_FinalProject.dll
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.pdb
+D:\TEMP\DOTNET API Angular Deploy Heroku\004_LukasHansel_FinalProject\obj\Debug\net5.0\004_LukasHansel_FinalProject.genruntimeconfig.cache
