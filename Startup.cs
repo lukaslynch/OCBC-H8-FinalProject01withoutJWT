@@ -86,28 +86,28 @@ namespace _004_LukasHansel_FinalProject
                 });
 
                 // To Enable authorization using Swagger (JWT)
-                c.AddSecurityDefinition("BearerAuth",
-                new OpenApiSecurityScheme()
-                {
-                    Name = "Authorization",
-                    Type = SecuritySchemeType.Http,
-                    Scheme = JwtBearerDefaults.AuthenticationScheme.ToLowerInvariant(),
-                    BearerFormat = "JWT",
-                    In = ParameterLocation.Header,
-                    Description = "Langsung masukkan valid token anda..."
-                });
-                c.OperationFilter<AuthResponsesOperationFilter>();
-                c.AddSecurityRequirement(new OpenApiSecurityRequirement{
-                    {
-                        new OpenApiSecurityScheme{
-                            Reference =new OpenApiReference {
-                                Type = ReferenceType.SecurityScheme,
-                                Id = "Bearer"
-                            }
-                        },
-                        new string[]{ }
-                    }
-                });
+            //     c.AddSecurityDefinition("BearerAuth",
+            //     new OpenApiSecurityScheme()
+            //     {
+            //         Name = "Authorization",
+            //         Type = SecuritySchemeType.Http,
+            //         Scheme = JwtBearerDefaults.AuthenticationScheme.ToLowerInvariant(),
+            //         BearerFormat = "JWT",
+            //         In = ParameterLocation.Header,
+            //         Description = "Langsung masukkan valid token anda..."
+            //     });
+            //     c.OperationFilter<AuthResponsesOperationFilter>();
+            //     c.AddSecurityRequirement(new OpenApiSecurityRequirement{
+            //         {
+            //             new OpenApiSecurityScheme{
+            //                 Reference =new OpenApiReference {
+            //                     Type = ReferenceType.SecurityScheme,
+            //                     Id = "Bearer"
+            //                 }
+            //             },
+            //             new string[]{ }
+            //         }
+            //     });
             });
             services.AddCors(options =>
             {
@@ -125,11 +125,13 @@ namespace _004_LukasHansel_FinalProject
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "_004_LukasHansel_FinalProject v1"));
             }
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
 
             app.UseRouting();
 
-            app.UseAuthentication();
+            app.UseCors("Open");
+
+            //app.UseAuthentication();
 
             app.UseAuthorization();
 
